@@ -1,3 +1,3 @@
 # iqbaldemo
-This is 2nd repo for learning how git works
+This is 2nd repo for learning how git works.
 Author - Aziz Iqbal
